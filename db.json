@@ -1,12 +1,205 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "connections": [
+    {
+      "arriving_flight" : "AA148",
+      "departing_flight" : "AA300"
+    },
+    {
+      "arriving_flight" : "UA783",
+      "departing_flight" : "DL350"
+    },
+    {
+      "arriving_flight" : "AA617",
+      "departing_flight" : "LH464"
+    },
+    {
+      "arriving_flight" : "LH924",
+      "departing_flight" : "AA150"
+    },
+    {
+      "arriving_flight" : "UA354",
+      "departing_flight" : "LH102"
+    },
+    {
+      "arriving_flight" : "UA159",
+      "departing_flight" : "DL924"
+    },
+    {
+      "arriving_flight" : "DL729",
+      "departing_flight" : "DL743"
+    },
+    {
+      "arriving_flight" : "DL909",
+      "departing_flight" : "AA671"
+    },
+    {
+      "arriving_flight" : "UA250",
+      "departing_flight" : "LH857"
+    },
+    {
+      "arriving_flight" : "DL627",
+      "departing_flight" : "LH470"
+    },
+    {
+      "arriving_flight" : "UA367",
+      "departing_flight" : "AA970"
+    },
+    {
+      "arriving_flight" : "UA692",
+      "departing_flight" : "AA966"
+    },
+    {
+      "arriving_flight" : "DL528",
+      "departing_flight" : "LH701"
+    },
+    {
+      "arriving_flight" : "LH427",
+      "departing_flight" : "DL488"
+    },
+    {
+      "arriving_flight" : "UA366",
+      "departing_flight" : "LH870"
+    },
+    {
+      "arriving_flight" : "AA409",
+      "departing_flight" : "LH769"
+    },
+    {
+      "arriving_flight" : "LH749",
+      "departing_flight" : "LH269"
+    },
+    {
+      "arriving_flight" : "UA347",
+      "departing_flight" : "DL386"
+    },
+    {
+      "arriving_flight" : "AA777",
+      "departing_flight" : "AA453"
+    },
+    {
+      "arriving_flight" : "DL646",
+      "departing_flight" : "LH392"
+    },
+    {
+      "arriving_flight" : "DL291",
+      "departing_flight" : "LH132"
+    },
+    {
+      "arriving_flight" : "DL714",
+      "departing_flight" : "UA140"
+    },
+    {
+      "arriving_flight" : "DL894",
+      "departing_flight" : "LH485"
+    },
+    {
+      "arriving_flight" : "AA066",
+      "departing_flight" : "DL594"
+    },
+    {
+      "arriving_flight" : "UA840",
+      "departing_flight" : "DL133"
+    },
+    {
+      "arriving_flight" : "LH549",
+      "departing_flight" : "UA881"
+    },
+    {
+      "arriving_flight" : "AA125",
+      "departing_flight" : "AA211"
+    },
+    {
+      "arriving_flight" : "UA810",
+      "departing_flight" : "DL911"
+    },
+    {
+      "arriving_flight" : "DL588",
+      "departing_flight" : "AA004"
+    },
+    {
+      "arriving_flight" : "AA105",
+      "departing_flight" : "AA170"
+    },
+    {
+      "arriving_flight" : "UA572",
+      "departing_flight" : "LH083"
+    },
+    {
+      "arriving_flight" : "LH361",
+      "departing_flight" : "AA457"
+    },
+    {
+      "arriving_flight" : "UA887",
+      "departing_flight" : "LH963"
+    },
+    {
+      "arriving_flight" : "DL916",
+      "departing_flight" : "DL596"
+    },
+    {
+      "arriving_flight" : "UA397",
+      "departing_flight" : "UA562"
+    },
+    {
+      "arriving_flight" : "DL532",
+      "departing_flight" : "UA078"
+    },
+    {
+      "arriving_flight" : "AA560",
+      "departing_flight" : "LH163"
+    },
+    {
+      "arriving_flight" : "AA150",
+      "departing_flight" : "AA334"
+    },
+    {
+      "arriving_flight" : "AA933",
+      "departing_flight" : "UA246"
+    },
+    {
+      "arriving_flight" : "DL635",
+      "departing_flight" : "AA398"
+    },
+    {
+      "arriving_flight" : "LH949",
+      "departing_flight" : "AA529"
+    },
+    {
+      "arriving_flight" : "UA006",
+      "departing_flight" : "AA684"
+    },
+    {
+      "arriving_flight" : "LH965",
+      "departing_flight" : "AA079"
+    },
+    {
+      "arriving_flight" : "LH714",
+      "departing_flight" : "UA648"
+    },
+    {
+      "arriving_flight" : "UA587",
+      "departing_flight" : "AA345"
+    },
+    {
+      "arriving_flight" : "DL658",
+      "departing_flight" : "AA831"
+    },
+    {
+      "arriving_flight" : "LH272",
+      "departing_flight" : "DL263"
+    },
+    {
+      "arriving_flight" : "AA599",
+      "departing_flight" : "UA451"
+    },
+    {
+      "arriving_flight" : "AA304",
+      "departing_flight" : "DL498"
+    },
+    {
+      "arriving_flight" : "UA373",
+      "departing_flight" : "DL072"
+    }
   ],
   "profile": {
     "name": "typicode"
